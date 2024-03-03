@@ -43,6 +43,3 @@ const apikey = "YOUR_API_KEY";
 
 This web app uses the [News API](https://newsapi.org/) to fetch news articles. Special thanks to the News API for providing the data source.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
